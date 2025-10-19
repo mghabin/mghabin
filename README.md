@@ -63,7 +63,7 @@ I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ### 🔥 My Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mghabin&theme=dark&background=000000&mode=daily)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mghabin&theme=dark&background=000000&mode=daily&exclude_days=fri,sat)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats-delta-neon-53.vercel.app/api/top-langs/?username=mghabin&layout=compact&theme=vision-friendly-dark)](https://github.com/mghabin/github-readme-stats)
 
