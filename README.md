@@ -1,81 +1,129 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JldG80eDM3YjhvNWNic3p1YzNsdXA2cG9ldGh5OG1zM3NqM205MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/E6EnvXLzCwnhV58V9l/giphy.gif" width="100"/>
+  <h1>
+    Hey there, I'm Mohammad
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=40&lines=Building+enterprise+cloud+systems+at+scale;Shipping+AI-powered+tools+with+Azure+OpenAI;Designing+distributed+systems+for+thousands+of+orgs;.NET+%C2%B7+Azure+%C2%B7+Kubernetes+%C2%B7+AI" alt="Typing SVG" />
+  </a>
+
   <div id="badges">
     <a href="https://linkedin.com/in/mohammmad-ghabin">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:mghabin98@gmail.com">
-      <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=mghabin&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Hey there, I'm Mohammad
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=mghabin&style=flat-square&color=blue" alt="Profile views"/>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ramallah, Palestine 🇵🇸
+Software Engineer at ASAL Technologies, contributing to Microsoft R&D for 4+ years. I design and ship distributed systems serving thousands of organizations across educational technology, financial technology, and AI.
 
-- Building scalable backend systems that serve millions of users
+- 🏗️ **Current:** Leading a major platform consolidation in educational technology — reverse-engineered a legacy system, built the new backend from scratch, shipped to production within months
+- 🤖 **AI:** Built AI-powered financial tools integrating Azure OpenAI with a major financial data provider, using Semantic Kernel orchestration
+- 🔧 **Core:** C#/.NET 8, ASP.NET Core, Azure, Docker, Kubernetes
+- 🔐 **Security:** Multi-tenant isolation for thousands of organizations — OAuth2/OIDC, Azure AD
+- 👥 **Mentorship:** Designed backend training programs, led internship teams, conducted hiring interviews
 
-- Currently exploring React, AWS, Kubernetes, and expanding into full-stack development
+<details>
+<summary>More about me →</summary>
+<br>
 
-- In my free time, I mentor junior developers and explore the latest tech stack and news
+- 📡 **Observability:** OpenTelemetry, Grafana, Kusto/KQL, Application Insights
+- 🚀 **Full-stack when needed:** React, TypeScript, React Native, NestJS — I step in across the stack to unblock teams
+- 📊 **Background:** Computer Engineering + Accounting minor — analytical by nature, engineer by choice
+- 🔒 Most of my professional work lives in private repositories
 
-- Powered by coffee ☕ and a passion for solving complex problems
-
-- Fun fact: I have a minor in Accounting but chose to debug code instead of balance sheets
-
-- Note: Most of my contributions are in private 🔒 repositories
-
----
-
-### 🛠️ Languages and Tools
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".NET Core" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-</div>
+</details>
 
 ---
 
-### 🔥 My Stats
+### 🔭 What I'm Working On
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mghabin&theme=dark&background=000000&mode=daily&exclude_days=fri,sat)](https://git.io/streak-stats)
+- Architecting the next phase of a major platform consolidation in educational technology
+- Exploring polyglot monorepo patterns (Bazel + NX) — building a reference architecture as a side project
 
-[![Top Langs](https://github-readme-stats-delta-neon-53.vercel.app/api/top-langs/?username=mghabin&layout=compact&theme=vision-friendly-dark)](https://github.com/mghabin/github-readme-stats)
+---
 
-*Note: Stats reflect public repositories only. Most of my professional work is in private repos.*
+### 📌 Highlights
+
+| | |
+|---|---|
+| 🏗️ **Platform Consolidation** | Shipped multiple apps → 1 unified platform in 6 months; rapid tenant adoption post-launch |
+| 🤖 **AI Integration** | Built Azure OpenAI–powered financial tools with a major financial data provider |
+| 🔄 **Data Migration** | Designed async migration architecture for thousands of tenants (Cosmos DB, Service Bus) |
+| ⚡ **Reliability** | 99.9% system availability, 95% test coverage, 40% deployment time reduction |
+| 🔐 **Auth at Scale** | Multi-tenant security architecture serving thousands of organizations |
+| 🛠️ **Infrastructure** | Delivered IaC (Bicep) with Azure Developer CLI — developers spin up environments in minutes |
+| 🚀 **Startup** | Built loyalty app demo (React Native, NestJS, NX monorepo) — presented to investors |
+
+---
+
+### 🧰 Tech Stack
+
+**Backend & Cloud**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AKS](https://img.shields.io/badge/AKS-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Functions-0062AD?style=flat&logo=azurefunctions&logoColor=white)
+![Service Bus](https://img.shields.io/badge/Service_Bus-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Bicep](https://img.shields.io/badge/Bicep/IaC-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+**AI**
+
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat&logo=openai&logoColor=white)
+![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+
+**Observability**
+
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Application Insights](https://img.shields.io/badge/App_Insights-68217A?style=flat&logo=microsoftazure&logoColor=white)
+![KQL](https://img.shields.io/badge/Kusto/KQL-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+**Auth & Security**
+
+![OAuth2](https://img.shields.io/badge/OAuth2/OIDC-000000?style=flat&logo=openid&logoColor=white)
+![Azure AD](https://img.shields.io/badge/Azure_AD-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![LTI](https://img.shields.io/badge/LTI_1.3-333333?style=flat)
+
+**Databases**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+**Architecture**
+
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-555555?style=flat)
+![Microservices](https://img.shields.io/badge/Microservices-555555?style=flat)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-555555?style=flat)
+![DDD](https://img.shields.io/badge/DDD-555555?style=flat)
+![CQRS](https://img.shields.io/badge/CQRS-555555?style=flat)
 
 ---
 
 <div align="center">
-  <i>Open to interesting projects and collaborations!</i>
-  <br>
-  <br>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  <br>
-  <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊
+  <i>Let's talk systems, architecture, or AI.</i>
 </div>
