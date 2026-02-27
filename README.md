@@ -23,13 +23,15 @@
 
 ### 👨‍💻 About Me
 
-Software Engineer at ASAL Technologies, contributing to Microsoft R&D for 4+ years. I design and ship distributed systems serving thousands of organizations across educational technology, financial technology, and AI.
+Software Engineer at ASAL Technologies — contributing to Microsoft (4+ years). I design and ship distributed systems serving thousands of organizations across educational technology, financial technology, and AI.
+
+Product-minded and pragmatic: I challenge unnecessary complexity and optimize for reliability, delivery speed, and maintainability.
 
 - 🏗️ **Current:** Leading a major platform consolidation in educational technology — reverse-engineered a legacy system, built the new backend from scratch, shipped to production within months
 - 🤖 **AI:** Built AI-powered financial tools integrating Azure OpenAI with a major financial data provider, using Semantic Kernel orchestration
 - 🔧 **Core:** C#/.NET 8, ASP.NET Core, Azure, Docker, Kubernetes
 - 🔐 **Security:** Multi-tenant isolation for thousands of organizations — OAuth2/OIDC, Azure AD
-- 👥 **Mentorship:** Designed backend training programs, led internship teams, conducted hiring interviews
+- 👥 **Mentorship:** Designed backend training programs, led internship teams
 
 <details>
 <summary>More about me →</summary>
