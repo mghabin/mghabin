@@ -23,7 +23,7 @@
 
 ### 👨‍💻 About Me
 
-Software Engineer at ASAL Technologies — contributing to Microsoft (4+ years). I design and ship distributed systems serving thousands of organizations across educational technology, financial technology, and AI.
+Software Engineer at ASAL Technologies — contributing to Microsoft (4.5+ years). I design and ship distributed systems serving thousands of organizations across educational technology, financial technology, and AI.
 
 Product-minded and pragmatic: I challenge unnecessary complexity and optimize for reliability, delivery speed, and maintainability.
 
