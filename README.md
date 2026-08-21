@@ -8,7 +8,7 @@
   </a>
 
   <div id="badges">
-    <a href="https://linkedin.com/in/mohammad-ghabin">
+    <a href="https://www.linkedin.com/in/mohammad-ghabin/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:mghabin98@gmail.com">
@@ -23,14 +23,14 @@
 
 ### 👨‍💻 About Me
 
-Software Engineer at ASAL Technologies — contributing to Microsoft (4.5+ years). I design and ship distributed systems serving thousands of organizations across educational technology, financial technology, and AI.
+Software Engineer at Microsoft (5+ years). I design and ship distributed systems serving thousands of organizations across educational technology, financial technology, and AI.
 
 Product-minded and pragmatic: I challenge unnecessary complexity and optimize for reliability, delivery speed, and maintainability.
 
-- 🏗️ **Current:** Leading a major platform consolidation in educational technology — reverse-engineered a legacy system, built the new backend from scratch, shipped to production within months
+- 🏗️ **Current:** Leading a major platform consolidation in educational technology, reverse-engineered a legacy system, built the new backend from scratch, shipped to production within months
 - 🤖 **AI:** Built AI-powered financial tools integrating Azure OpenAI with a major financial data provider, using Semantic Kernel orchestration
-- 🔧 **Core:** C#/.NET 8, ASP.NET Core, Azure, Docker, Kubernetes
-- 🔐 **Security:** Multi-tenant isolation for thousands of organizations — OAuth2/OIDC, Azure AD
+- 🔧 **Core:** C#/.NET 8, ASP.NET Core, Azure, Docker, Kubernetes; also Python, Java, TypeScript
+- 🔐 **Security:** Multi-tenant isolation for thousands of organizations, OAuth2/OIDC, Azure AD
 - 👥 **Mentorship:** Designed backend training programs, led internship teams
 
 <details>
@@ -38,8 +38,8 @@ Product-minded and pragmatic: I challenge unnecessary complexity and optimize fo
 <br>
 
 - 📡 **Observability:** OpenTelemetry, Grafana, Kusto/KQL, Application Insights
-- 🚀 **Full-stack when needed:** React, TypeScript, React Native, NestJS — I step in across the stack to unblock teams
-- 📊 **Background:** Computer Engineering + Accounting minor — analytical by nature, engineer by choice
+- 🚀 **Full-stack when needed:** React, TypeScript, React Native, NestJS. I step in across the stack to unblock teams
+- 📊 **Background:** Computer Engineering + Accounting minor, analytical by nature, engineer by choice
 - 🔒 Most of my professional work lives in private repositories
 
 </details>
@@ -49,7 +49,7 @@ Product-minded and pragmatic: I challenge unnecessary complexity and optimize fo
 ### 🔭 What I'm Working On
 
 - Architecting the next phase of a major platform consolidation in educational technology
-- Exploring polyglot monorepo patterns (Bazel + NX) — building a reference architecture as a side project
+- Exploring polyglot monorepo patterns (Bazel + NX), building a reference architecture as a side project
 
 ---
 
@@ -57,17 +57,28 @@ Product-minded and pragmatic: I challenge unnecessary complexity and optimize fo
 
 | | |
 |---|---|
-| 🏗️ **Platform Consolidation** | Shipped multiple apps → 1 unified platform in 6 months; rapid tenant adoption post-launch |
-| 🤖 **AI Integration** | Built Azure OpenAI–powered financial tools with a major financial data provider |
-| 🔄 **Data Migration** | Designed async migration architecture for thousands of tenants (Cosmos DB, Service Bus) |
+| 🏗️ **LTI Platform** | Drove backend architecture for an LTI 1.3 platform across 4 major LMSs (Canvas, Blackboard, Brightspace/D2L, Schoology), serving millions of reachable users across thousands of tenants at ~99.9% reliability |
+| 🤖 **AI Integration** | Built Azure OpenAI-powered financial tools with a major financial data provider |
+| 🔄 **Data Migration** | Designed async migration architecture with exactly-once course-resources provisioning (Cosmos DB ETag leases) for thousands of tenants |
+| 📡 **Observability** | Built the platform's reliability backbone: Grafana dashboards, SLO classification, and two-layer end-to-end correlation-ID tracing |
 | ⚡ **Reliability** | 99.9% system availability, 95% test coverage, 40% deployment time reduction |
 | 🔐 **Auth at Scale** | Multi-tenant security architecture serving thousands of organizations |
-| 🛠️ **Infrastructure** | Delivered IaC (Bicep) with Azure Developer CLI — developers spin up environments in minutes |
-| 🚀 **Startup** | Built loyalty app demo (React Native, NestJS, NX monorepo) — presented to investors |
+| 🛠️ **Infrastructure** | Delivered IaC (Bicep) with Azure Developer CLI, spinning up environments in minutes |
+| 🚀 **Startup** | Built loyalty app demo (React Native, NestJS, NX monorepo), presented to investors |
 
 ---
 
 ### 🧰 Tech Stack
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
 **Backend & Cloud**
 
