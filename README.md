@@ -23,12 +23,12 @@
 
 ### 👨‍💻 About Me
 
-Software Engineer at Microsoft (5+ years). I design and ship distributed systems serving thousands of organizations across educational technology, financial technology, and AI.
+Software Engineer at Microsoft (5+ years). I design and ship distributed systems end-to-end, from React/TypeScript frontends to .NET/Azure backends and cloud infrastructure, serving thousands of organizations across educational technology, financial technology, and AI.
 
 Product-minded and pragmatic: I challenge unnecessary complexity and optimize for reliability, delivery speed, and maintainability.
 
-- 🏗️ **Current:** Leading a major platform consolidation in educational technology, reverse-engineered a legacy system, built the new backend from scratch, shipped to production within months
-- 🤖 **AI:** Built AI-powered financial tools integrating Azure OpenAI with a major financial data provider, using Semantic Kernel orchestration
+- 🏗️ **Current:** Core engineer on **Microsoft 365 LTI** (Microsoft's unified education platform integrating M365 apps into major LMSs); reverse-engineered a legacy system, rebuilt it end-to-end (frontend, backend, infra), shipped to production
+- 🤖 **AI:** Built **Financial Meeting Prep** (a Microsoft for Financial Services solution) with **LSEG**, integrating Azure OpenAI via Semantic Kernel orchestration
 - 🔧 **Core:** C#/.NET 8, ASP.NET Core, Azure, Docker, Kubernetes; also Python, Java, TypeScript
 - 🔐 **Security:** Multi-tenant isolation for thousands of organizations, OAuth2/OIDC, Azure AD
 - 👥 **Mentorship:** Designed backend training programs, led internship teams
@@ -57,8 +57,8 @@ Product-minded and pragmatic: I challenge unnecessary complexity and optimize fo
 
 | | |
 |---|---|
-| 🏗️ **LTI Platform** | Drove backend architecture for an LTI 1.3 platform across 4 major LMSs (Canvas, Blackboard, Brightspace/D2L, Schoology), serving millions of reachable users across thousands of tenants at ~99.9% reliability |
-| 🤖 **AI Integration** | Built Azure OpenAI-powered financial tools with a major financial data provider |
+| 🏗️ **Microsoft 365 LTI** | Drove backend architecture for Microsoft's unified education platform, integrating M365 apps into 4 major LMSs (Canvas, Blackboard, Brightspace/D2L, Schoology); serving millions of reachable users across thousands of tenants at high reliability |
+| 🤖 **AI Integration** | Built **Financial Meeting Prep** (Microsoft for Financial Services) with **LSEG**, powered by Azure OpenAI + Semantic Kernel |
 | 🔄 **Data Migration** | Designed async migration architecture with exactly-once course-resources provisioning (Cosmos DB ETag leases) for thousands of tenants |
 | 📡 **Observability** | Built the platform's reliability backbone: Grafana dashboards, SLO classification, and two-layer end-to-end correlation-ID tracing |
 | ⚡ **Reliability** | 99.9% system availability, 95% test coverage, 40% deployment time reduction |
