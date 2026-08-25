@@ -4,9 +4,8 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=40&lines=Building+enterprise+cloud+systems+at+scale;Shipping+AI-powered+tools+with+Azure+OpenAI;Designing+distributed+systems+for+thousands+of+orgs;.NET+%C2%B7+Azure+%C2%B7+Kubernetes+%C2%B7+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=40&lines=Building+enterprise+cloud+systems+at+scale;Shipping+AI-powered+tools+with+Azure+OpenAI;Designing+distributed+multi-tenant+systems;.NET+%C2%B7+Azure+%C2%B7+Kubernetes+%C2%B7+AI" alt="Typing SVG" />
   </a>
-
   <div id="badges">
     <a href="https://www.linkedin.com/in/mohammad-ghabin/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -23,14 +22,14 @@
 
 ### 👨‍💻 About Me
 
-Software Engineer at Microsoft (5+ years). I design and ship distributed systems end-to-end, from React/TypeScript frontends to .NET/Azure backends and cloud infrastructure, serving thousands of organizations across educational technology, financial technology, and AI.
+Software Engineer at Microsoft (5+ years) through ASAL Technologies. I design and ship distributed systems end-to-end, from React/TypeScript frontends to .NET/Azure backends and cloud infrastructure, supporting enterprise platforms across educational technology, financial technology, and AI.
 
 Product-minded and pragmatic: I challenge unnecessary complexity and optimize for reliability, delivery speed, and maintainability.
 
-- 🏗️ **Current:** Core engineer on **Microsoft 365 LTI** (Microsoft's unified education platform integrating M365 apps into major LMSs); reverse-engineered a legacy system, rebuilt it end-to-end (frontend, backend, infra), shipped to production
-- 🤖 **AI:** Built **Financial Meeting Prep** (a Microsoft for Financial Services solution) with **LSEG**, integrating Azure OpenAI via Semantic Kernel orchestration
+- 🏗️ **Current:** Contributing to **Microsoft 365 LTI** (Microsoft 365 Education integration for learning-management systems integrating Microsoft 365 apps into major LMSs); Helped modernize legacy capabilities across frontend, backend, and cloud infrastructure and supported the general availability rollout.
+- 🤖 **AI:** Contributed to **Financial Meeting Prep**, developed by Microsoft with LSEG, delivering generative-AI capabilities for financial meeting preparation.
 - 🔧 **Core:** C#/.NET 8, ASP.NET Core, Azure, Docker, Kubernetes; also Python, Java, TypeScript
-- 🔐 **Security:** Multi-tenant isolation for thousands of organizations, OAuth2/OIDC, Azure AD
+- 🔐 **Security:** Multi-tenant isolation using OAuth 2.0, OIDC, and Microsoft Entra ID
 - 👥 **Mentorship:** Designed backend training programs, led internship teams
 
 <details>
@@ -40,7 +39,7 @@ Product-minded and pragmatic: I challenge unnecessary complexity and optimize fo
 - 📡 **Observability:** OpenTelemetry, Grafana, Kusto/KQL, Application Insights
 - 🚀 **Full-stack when needed:** React, TypeScript, React Native, NestJS. I step in across the stack to unblock teams
 - 📊 **Background:** Computer Engineering + Accounting minor, analytical by nature, engineer by choice
-- 🔒 Most of my professional work lives in private repositories
+- 🔒 Public repositories here contain personal projects, learning experiments, and reusable samples.
 
 </details>
 
@@ -48,7 +47,6 @@ Product-minded and pragmatic: I challenge unnecessary complexity and optimize fo
 
 ### 🔭 What I'm Working On
 
-- Architecting the next phase of a major platform consolidation in educational technology
 - Exploring polyglot monorepo patterns (Bazel + NX), building a reference architecture as a side project
 
 ---
@@ -57,13 +55,13 @@ Product-minded and pragmatic: I challenge unnecessary complexity and optimize fo
 
 | | |
 |---|---|
-| 🏗️ **Microsoft 365 LTI** | Drove backend architecture for Microsoft's unified education platform, integrating M365 apps into 4 major LMSs (Canvas, Blackboard, Brightspace/D2L, Schoology); serving millions of reachable users across thousands of tenants at high reliability |
-| 🤖 **AI Integration** | Built **Financial Meeting Prep** (Microsoft for Financial Services) with **LSEG**, powered by Azure OpenAI + Semantic Kernel |
-| 🔄 **Data Migration** | Designed async migration architecture with exactly-once course-resources provisioning (Cosmos DB ETag leases) for thousands of tenants |
-| 📡 **Observability** | Built the platform's reliability backbone: Grafana dashboards, SLO classification, and two-layer end-to-end correlation-ID tracing |
-| ⚡ **Reliability** | 99.9% system availability, 95% test coverage, 40% deployment time reduction |
-| 🔐 **Auth at Scale** | Multi-tenant security architecture serving thousands of organizations |
-| 🛠️ **Infrastructure** | Delivered IaC (Bicep) with Azure Developer CLI, spinning up environments in minutes |
+| 🏗️ **Microsoft 365 LTI** | Drove backend architecture for Microsoft 365 Education integration for learning-management systems, integrating Microsoft 365 apps into 4 major LMSs (Canvas, Blackboard, Brightspace/D2L, Schoology); supporting enterprise education customers across multiple leading learning-management systems at high reliability |
+| 🤖 **AI Integration** | Contributed to **Financial Meeting Prep** (Microsoft for Financial Services) with **LSEG**, powered by Azure OpenAI + Semantic Kernel |
+| 🔄 **Data Migration** | Designed resilient asynchronous migration workflows for large-scale, multi-tenant education platforms using Azure services. |
+| 📡 **Observability** | Strengthened platform reliability through dashboards, SLO classification, and distributed tracing. |
+| ⚡ **Reliability** | Improved system availability, automated test coverage, and deployment efficiency. |
+| 🔐 **Auth at Scale** | Designed secure tenant isolation for large-scale multi-tenant SaaS platforms using OAuth 2.0, OIDC, and Microsoft Entra ID. |
+| 🛠️ **Infrastructure** | Delivered repeatable environment provisioning using Bicep and Azure Developer CLI. |
 | 🚀 **Startup** | Built loyalty app demo (React Native, NestJS, NX monorepo), presented to investors |
 
 ---
