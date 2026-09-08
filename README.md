@@ -15,7 +15,6 @@
     </a>
   </div>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=mghabin&style=flat-square&color=blue" alt="Profile views"/>
 </div>
 
 ---
@@ -55,7 +54,7 @@ Product-minded and pragmatic: I challenge unnecessary complexity and optimize fo
 
 | | |
 |---|---|
-| 🏗️ **Microsoft 365 LTI** | Drove backend architecture for Microsoft 365 Education integration for learning-management systems, integrating Microsoft 365 apps into 4 major LMSs (Canvas, Blackboard, Brightspace/D2L, Schoology); supporting enterprise education customers across multiple leading learning-management systems at high reliability |
+| 🏗️ **Microsoft 365 LTI** | Drove architecture for Microsoft 365 Education integration for learning-management systems, integrating Microsoft 365 apps into major LMSs (Canvas, Blackboard, Brightspace/D2L, Schoology, ...); supporting enterprise education customers across multiple leading learning-management systems at high reliability |
 | 🤖 **AI Integration** | Contributed to **Financial Meeting Prep**, developed by Microsoft with LSEG, delivering generative-AI capabilities for financial meeting preparation |
 | 🔄 **Data Migration** | Designed resilient asynchronous migration workflows for large-scale, multi-tenant education platforms using Azure services. |
 | 📡 **Observability** | Strengthened platform reliability through dashboards, SLO classification, and distributed tracing. |
