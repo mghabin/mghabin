@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-Software Engineer at Microsoft (5+ years) through ASAL Technologies. I design and ship distributed systems end-to-end, from React/TypeScript frontends to .NET/Azure backends and cloud infrastructure, supporting enterprise platforms across educational technology, financial technology, and AI.
+Software Engineer, ASAL Technologies (contracted to Microsoft), working on Microsoft products since 2021. I design and ship distributed systems end-to-end, from React/TypeScript frontends to .NET/Azure backends and cloud infrastructure, supporting enterprise platforms across educational technology, financial technology, and AI.
 
 Product-minded and pragmatic: I challenge unnecessary complexity and optimize for reliability, delivery speed, and maintainability.
 
@@ -54,7 +54,7 @@ Product-minded and pragmatic: I challenge unnecessary complexity and optimize fo
 
 | | |
 |---|---|
-| 🏗️ **Microsoft 365 LTI** | Drove architecture for Microsoft 365 Education integration for learning-management systems, integrating Microsoft 365 apps into major LMSs (Canvas, Blackboard, Brightspace/D2L, Schoology, ...); supporting enterprise education customers across multiple leading learning-management systems at high reliability |
+| 🏗️ **Microsoft 365 LTI** | Designed and built the backend for Microsoft 365 Education integration for learning-management systems, integrating Microsoft 365 apps into major LMSs (Canvas, Blackboard, Brightspace/D2L, Schoology, ...) |
 | 🤖 **AI Integration** | Contributed to **Financial Meeting Prep**, developed by Microsoft with LSEG, delivering generative-AI capabilities for financial meeting preparation |
 | 🔄 **Data Migration** | Designed resilient asynchronous migration workflows for large-scale, multi-tenant education platforms using Azure services. |
 | 📡 **Observability** | Strengthened platform reliability through dashboards, SLO classification, and distributed tracing. |
