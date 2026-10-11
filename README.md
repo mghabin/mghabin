@@ -25,11 +25,11 @@ Software Engineer II, Microsoft (via ASAL Technologies). Almost 5 years building
 
 Product-minded and pragmatic: I challenge unnecessary complexity and optimize for reliability, delivery speed, and maintainability.
 
-- 🏗️ **Current:** **Microsoft 365 LTI**, which lets teachers and students use Microsoft 365 tools inside their school's learning platform. It works with any learning platform that supports the LTI 1.3 standard, including Canvas, Blackboard, Brightspace (D2L), Schoology and Moodle, and reaches millions of students and teachers. I built the backend that merged six education tools into it, live in six months
+- 🏗️ **Current:** **Microsoft 365 LTI**, which lets teachers and students use Microsoft 365 tools inside their school's learning platform. It works with any learning platform that supports the LTI 1.3 standard, including Canvas, Blackboard, Brightspace (D2L), Schoology and Moodle, and is used by hundreds of thousands of students and teachers every month. I built the backend that merged six education tools into it, live in six months
 - 🤖 **AI:** Built the news service for **Financial Meeting Prep**, a Microsoft Teams app made with **LSEG** that helps bankers prepare for client meetings, summarising company news with Azure OpenAI; helped integrate Semantic Kernel
 - 🔧 **Core:** C#/.NET 8, ASP.NET Core, Azure, Docker, Kubernetes; also Python, Java, TypeScript
 - 🔐 **Security:** Secure sign-in with OAuth 2.0, OpenID Connect and Microsoft Entra ID; shared token validation, least-privilege permissions and signing-key rotation
-- 👥 **Mentorship:** Wrote a backend training plan and mentored two cohorts of university interns from interview to final demo
+- 👥 **Mentorship:** Wrote a backend training plan and mentored six ASAL university interns across two cohorts, from interview to final demo, with 90% of features delivered on time
 
 <details>
 <summary>More about me →</summary>
@@ -54,12 +54,12 @@ Product-minded and pragmatic: I challenge unnecessary complexity and optimize fo
 
 | | |
 |---|---|
-| 🏗️ **Microsoft 365 LTI** | Built the backend that merged six Microsoft education tools into one platform, live in six months and adopted by close to a thousand education organisations in its first two months. It works with any learning platform that supports the LTI 1.3 standard, including Canvas, Blackboard, Brightspace (D2L), Schoology and Moodle, and reaches millions of students and teachers |
+| 🏗️ **Microsoft 365 LTI** | Built the backend that merged six Microsoft education tools into one platform, live in six months and adopted by close to a thousand education organisations in its first two months. It works with any learning platform that supports the LTI 1.3 standard, including Canvas, Blackboard, Brightspace (D2L), Schoology and Moodle, and is used by hundreds of thousands of students and teachers every month |
 | 🤖 **AI Integration** | Built the news service for **Financial Meeting Prep**, a Microsoft Teams app made with **LSEG** for bankers, summarising company news with Azure OpenAI; helped integrate Semantic Kernel |
-| 🔄 **Data Migration** | Designed and built the tool that moves course content off a legacy app (background jobs, progress tracking, Canvas rate limits), then helped retire the legacy service; prevented duplicate class groups with Cosmos DB optimistic concurrency |
-| 📡 **Observability** | 35 production Grafana dashboards, operation-level success tracking and monitors for a platform handling tens of millions of requests a month, credited with reducing alert noise |
-| ⚡ **Reliability** | Built for high availability: retries that respect partner rate limits, staged rollouts with feature flags and kill switches, and root-cause fixes such as a migration timeout that hit dozens of organisations |
-| 🔐 **Auth at Scale** | Secure sign-in with OAuth 2.0, OpenID Connect and Microsoft Entra ID for more than a thousand education organisations; shared token validation, least-privilege permissions and signing-key rotation |
+| 🔄 **Data Migration** | Designed and built the tool that moves course content off a legacy app (background jobs, progress tracking, Canvas rate limits), then helped retire the legacy service; repaired more than a thousand courses whose files had been split across two sites, after a full read-only dry run and a small canary; prevented duplicate class groups with Cosmos DB optimistic concurrency |
+| 📡 **Observability** | 35 production Grafana dashboards across the LTI services, operation-level success tracking and monitors, credited with reducing alert noise |
+| ⚡ **Reliability** | Responsible for reliability and performance of the LTI services and clients (hundreds of millions of requests a month), presenting them in the monthly service review and serving on call; the core LTI launch service ran at five-nines availability through the 2026 back-to-school peak. Built for high availability: retries that respect partner rate limits, staged rollouts with feature flags and kill switches, and root-cause fixes such as a migration timeout that hit dozens of organisations |
+| 🔐 **Auth at Scale** | Secure sign-in with OAuth 2.0, OpenID Connect and Microsoft Entra ID for more than a thousand education organisations; shared token validation, least-privilege permissions and signing-key rotation; roster sync made safe for large classes (limit raised from 1,000 to 2,500 members, paging, a fix for silently cut-off Brightspace rosters, a guard against emptied classes) |
 | 🛠️ **Infrastructure** | Automated Azure environment setup with Bicep and cut deployments from 26 to 15 minutes by reusing tested builds; 95% test coverage with 200+ automated tests |
 | 🚀 **Startup** | Built loyalty app demo (React Native, NestJS, NX monorepo), presented to investors |
 
