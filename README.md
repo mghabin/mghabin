@@ -21,15 +21,15 @@
 
 ### 👨‍💻 About Me
 
-Software Engineer, ASAL Technologies (contracted to Microsoft), working on Microsoft products since 2021. I design and ship distributed systems end-to-end, from React/TypeScript frontends to .NET/Azure backends and cloud infrastructure, supporting enterprise platforms across educational technology, financial technology, and AI.
+Software Engineer II, Microsoft (via ASAL Technologies). Almost 5 years building production cloud services in C#/.NET and Azure, plus React/TypeScript when a feature needs it, for two kinds of products: Microsoft 365 tools inside school learning platforms, and AI-powered meeting preparation for bankers.
 
 Product-minded and pragmatic: I challenge unnecessary complexity and optimize for reliability, delivery speed, and maintainability.
 
-- 🏗️ **Current:** Contributing to **Microsoft 365 LTI** (Microsoft 365 Education integration for learning-management systems integrating Microsoft 365 apps into major LMSs); Helped modernize legacy capabilities across frontend, backend, and cloud infrastructure and supported the general availability rollout.
-- 🤖 **AI:** Contributed to **Financial Meeting Prep**, developed by Microsoft with LSEG, delivering generative-AI capabilities for financial meeting preparation.
+- 🏗️ **Current:** **Microsoft 365 LTI**, which lets teachers and students use Microsoft 365 tools inside their school's learning platform. It works with any learning platform that supports the LTI 1.3 standard, including Canvas, Blackboard, Brightspace (D2L), Schoology and Moodle, and reaches millions of students and teachers. I built the backend that merged six education tools into it, live in six months
+- 🤖 **AI:** Built the news service for **Financial Meeting Prep**, a Microsoft Teams app made with **LSEG** that helps bankers prepare for client meetings, summarising company news with Azure OpenAI; helped integrate Semantic Kernel
 - 🔧 **Core:** C#/.NET 8, ASP.NET Core, Azure, Docker, Kubernetes; also Python, Java, TypeScript
-- 🔐 **Security:** Multi-tenant isolation using OAuth 2.0, OIDC, and Microsoft Entra ID
-- 👥 **Mentorship:** Designed backend training programs, led internship teams
+- 🔐 **Security:** Secure sign-in with OAuth 2.0, OpenID Connect and Microsoft Entra ID; shared token validation, least-privilege permissions and signing-key rotation
+- 👥 **Mentorship:** Wrote a backend training plan and mentored two cohorts of university interns from interview to final demo
 
 <details>
 <summary>More about me →</summary>
@@ -54,13 +54,13 @@ Product-minded and pragmatic: I challenge unnecessary complexity and optimize fo
 
 | | |
 |---|---|
-| 🏗️ **Microsoft 365 LTI** | Designed and built the backend for Microsoft 365 Education integration for learning-management systems, integrating Microsoft 365 apps into major LMSs (Canvas, Blackboard, Brightspace/D2L, Schoology, ...) |
-| 🤖 **AI Integration** | Contributed to **Financial Meeting Prep**, developed by Microsoft with LSEG, delivering generative-AI capabilities for financial meeting preparation |
-| 🔄 **Data Migration** | Designed resilient asynchronous migration workflows for large-scale, multi-tenant education platforms using Azure services. |
-| 📡 **Observability** | Strengthened platform reliability through dashboards, SLO classification, and distributed tracing. |
-| ⚡ **Reliability** | Improved system availability, automated test coverage, and deployment efficiency |
-| 🔐 **Auth at Scale** | Designed secure tenant isolation for large-scale multi-tenant SaaS platforms using OAuth 2.0, OIDC, and Microsoft Entra ID |
-| 🛠️ **Infrastructure** | Delivered repeatable environment provisioning using Bicep and Azure Developer CLI |
+| 🏗️ **Microsoft 365 LTI** | Built the backend that merged six Microsoft education tools into one platform, live in six months and adopted by close to a thousand education organisations in its first two months. It works with any learning platform that supports the LTI 1.3 standard, including Canvas, Blackboard, Brightspace (D2L), Schoology and Moodle, and reaches millions of students and teachers |
+| 🤖 **AI Integration** | Built the news service for **Financial Meeting Prep**, a Microsoft Teams app made with **LSEG** for bankers, summarising company news with Azure OpenAI; helped integrate Semantic Kernel |
+| 🔄 **Data Migration** | Designed and built the tool that moves course content off a legacy app (background jobs, progress tracking, Canvas rate limits), then helped retire the legacy service; prevented duplicate class groups with Cosmos DB optimistic concurrency |
+| 📡 **Observability** | 35 production Grafana dashboards, operation-level success tracking and monitors for a platform handling tens of millions of requests a month, credited with reducing alert noise |
+| ⚡ **Reliability** | Built for high availability: retries that respect partner rate limits, staged rollouts with feature flags and kill switches, and root-cause fixes such as a migration timeout that hit dozens of organisations |
+| 🔐 **Auth at Scale** | Secure sign-in with OAuth 2.0, OpenID Connect and Microsoft Entra ID for more than a thousand education organisations; shared token validation, least-privilege permissions and signing-key rotation |
+| 🛠️ **Infrastructure** | Automated Azure environment setup with Bicep and cut deployments from 26 to 15 minutes by reusing tested builds; 95% test coverage with 200+ automated tests |
 | 🚀 **Startup** | Built loyalty app demo (React Native, NestJS, NX monorepo), presented to investors |
 
 ---
