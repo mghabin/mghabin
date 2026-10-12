@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=40&lines=Building+enterprise+cloud+systems+at+scale;Shipping+AI-powered+tools+with+Azure+OpenAI;Designing+distributed+multi-tenant+systems;.NET+%C2%B7+Azure+%C2%B7+Kubernetes+%C2%B7+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=760&height=40&lines=Software+Engineer+II,+Microsoft+(via+ASAL+Technologies);I+design,+build+and+run+C%23%2F.NET+services+on+Azure;Backend,+platform,+reliability,+identity" alt="Typing SVG" />
   </a>
   <div id="badges">
     <a href="https://www.linkedin.com/in/mohammad-ghabin/">
@@ -21,14 +21,14 @@
 
 ### 👨‍💻 About Me
 
-Software Engineer II, Microsoft (via ASAL Technologies). Backend and cloud engineer: I design, build and run production .NET services on Azure end to end, from high-level and low-level design and C#/.NET code to CI/CD, infrastructure as code, deployment, traffic, telemetry, monitoring and on-call. Almost 5 years on two kinds of products: Microsoft 365 tools inside school learning platforms, and AI-powered meeting preparation for bankers.
+Software Engineer II, Microsoft (via ASAL Technologies). Almost 5 years on Microsoft products, most recently Microsoft 365 tools inside school learning platforms and, before that, AI-powered meeting preparation for bankers. Backend and cloud engineer: I design, build and run production .NET services on Azure end to end, from high-level and low-level design and C#/.NET code to CI/CD, infrastructure as code, deployment, traffic, telemetry, monitoring and on-call.
 
-Product-minded and pragmatic: I challenge unnecessary complexity and optimize for reliability, delivery speed, and maintainability.
+Product-minded and pragmatic: I challenge unnecessary complexity and optimise for reliability, delivery speed, and maintainability.
 
-- 🏗️ **Current:** I build and run the backend services behind **Microsoft 365 LTI**, which lets teachers and students use Microsoft 365 tools inside their school's learning platform. It works with any learning platform that supports the LTI 1.3 standard, including Canvas, Blackboard, Brightspace (D2L), Schoology and Moodle, and is used by hundreds of thousands of students and teachers every month. I built the backend that merged six education tools into it, live in six months
-- 🛠️ **Cloud and delivery:** AKS with Helm and workload identity, Azure Container Apps, App Service, Functions and Service Fabric, plus Application Gateway, Traffic Manager and CDN, shipped through Bicep, Docker and Azure DevOps pipelines with gated multi-region rollouts
-- ⚡ **Reliability:** Responsible for reliability and performance of the LTI services and clients (hundreds of millions of requests a month) and on call, with 35 production Grafana dashboards, OpenTelemetry and end-to-end correlation ids
-- 🤖 **AI:** Built the Azure OpenAI services behind **Financial Meeting Prep**, a Microsoft Teams app made with **LSEG** that helps bankers prepare for client meetings: a news service that summarises company news, with Semantic Kernel
+- 🏗️ **Current:** I build and run the backend services behind **Microsoft 365 LTI**, which lets teachers and students use Microsoft 365 tools inside their school's learning platform. It works with any learning platform that supports the LTI 1.3 standard, including Canvas, Blackboard, Brightspace (D2L), Schoology and Moodle, and is used by hundreds of thousands of students and teachers every month. I built the backend that merged six education tools into it, live in six months and adopted by close to a thousand education organisations in its first two months.
+- 🛠️ **Cloud and delivery:** Deployed and ran services on AKS (Helm) and Service Fabric in several production regions, with multi-region Azure DevOps release pipelines, Application Gateway, Traffic Manager and CDN
+- ⚡ **Reliability:** Responsible for reliability and performance of the LTI services and clients (hundreds of millions of requests a month) and on call, with 35 production Grafana dashboards, OpenTelemetry instrumentation and end-to-end correlation ids
+- 🤖 **AI:** Built backend services for **Financial Meeting Prep**, a Microsoft Teams app made with **LSEG** that helped bankers prepare for client meetings (retired in October 2025), including the news service I designed and built around Azure OpenAI summaries (with source links), with Semantic Kernel
 - 🔧 **Core:** C#/.NET 8 and .NET 10, ASP.NET Core, Azure, Docker, Kubernetes, Helm. Also TypeScript, Python, Java and SQL, with Cosmos DB, SQL Server, PostgreSQL, MongoDB and Redis
 - 🔐 **Security:** Secure sign-in with OAuth 2.0, OpenID Connect and Microsoft Entra ID, plus shared token validation, least-privilege permissions, and certificate and signing-key rotation
 - 👥 **Mentorship:** Wrote a backend training plan and mentored six ASAL university interns across two cohorts, from interview to final demo, with 90% of features delivered on time
@@ -40,7 +40,7 @@ Product-minded and pragmatic: I challenge unnecessary complexity and optimize fo
 - 📡 **Observability:** OpenTelemetry, Grafana, Kusto/KQL, Application Insights, monitors and alerts, on-call
 - 🚀 **Full-stack when needed:** React, TypeScript, React Native, NestJS. I step in across the stack to unblock teams
 - 📊 **Background:** Computer Engineering + Accounting minor, analytical by nature, engineer by choice
-- 🔒 Public repositories here contain personal projects, learning experiments, and reusable samples.
+- 🔒 Most of my professional work lives in private repositories. Public ones here hold personal projects, learning experiments and reusable samples.
 
 </details>
 
@@ -57,12 +57,12 @@ Product-minded and pragmatic: I challenge unnecessary complexity and optimize fo
 | | |
 |---|---|
 | 🏗️ **Production Services** | I design, build and run production .NET services end to end: more than ten services and components across two product groups and hundreds of production code changes in ten repositories since 2023, from high-level and low-level design documents to APIs, background jobs, data models, tests, pipelines and releases. Built the backend that merged six Microsoft education tools into Microsoft 365 LTI (Teams meetings on Microsoft Graph, assignments, OneDrive files, roster sync, settings), live in six months and adopted by close to a thousand education organisations in its first two months |
-| 🛠️ **Cloud Infrastructure & Delivery** | AKS with Helm and workload identity across several production regions, Azure Container Apps, App Service, Functions and Service Fabric. Application Gateway ingress, Traffic Manager cutovers and a reusable CDN deployment pattern for very large files, used by Learning Zone and Reflect. Bicep environments, Docker and Azure DevOps pipelines with gated multi-region rollouts, which cut deployments from 26 to 15 minutes |
-| ⚡ **Observability & Reliability** | Responsible for reliability and performance of the LTI services and clients (hundreds of millions of requests a month), presented in the monthly service review, and on call. 35 production Grafana dashboards, OpenTelemetry instrumentation, operation-level success tracking and end-to-end correlation ids, credited with reducing alert noise. The core LTI launch service ran at five-nines availability through the 2026 back-to-school peak. Root-caused a migration timeout that hit dozens of organisations |
-| 🔐 **Identity & Integrations** | Secure sign-in with OAuth 2.0, OpenID Connect and Microsoft Entra ID for more than a thousand education organisations. LTI 1.3 and LTI Advantage (roster sync, grades, deep linking) across Canvas, Blackboard, Brightspace, Schoology and Moodle, plus Microsoft Graph and LSEG partner APIs. Shared token validation, least-privilege permission reviews, certificate rotation, Secure Future Initiative work and .NET 8 and .NET 10 upgrades. Roster limit raised from 1,000 to 2,500 members |
-| 🔄 **Data & Migration** | Cosmos DB, SQL Server, PostgreSQL, MongoDB, Redis, Azure Tables, Blob storage, Service Bus and Event Hubs. Designed and built the course migration engine (background jobs with saved progress and resume, Canvas rate limits, admin bulk migration, exactly-once class groups with Cosmos DB leases), so courses with 20,000+ links could move. Repaired more than a thousand courses split across two sites after a full dry run and a canary |
-| 🤖 **AI** | Built the Azure OpenAI services behind **Financial Meeting Prep**, a Microsoft Teams app made with **LSEG** for bankers: a news service that summarises company news with source links, Semantic Kernel, a provider abstraction with a mock LSEG service, Polly resilience and 95% test coverage with 200+ tests |
-| 🚀 **Startup** | Built loyalty app demo (React Native, NestJS, NX monorepo), presented to investors |
+| 🛠️ **Cloud Infrastructure & Delivery** | Deployed and ran services on AKS (Helm) and Service Fabric in several production regions, with multi-region Azure DevOps release pipelines, Application Gateway, Traffic Manager and CDN. Retired the classic service (the older OneDrive LTI tool) in every production region, routing its traffic to a retirement page. Built a reusable CDN deployment pattern for very large files, used by Learning Zone and Reflect, and fixed the .NET 10 build and release path of an internal operations tool |
+| ⚡ **Observability & Reliability** | Responsible for reliability and performance of the LTI services and clients (hundreds of millions of requests a month): I present LTI reliability in the monthly service review and take on-call. Built 35 production Grafana dashboards, OpenTelemetry instrumentation, operation-level success tracking and end-to-end correlation ids, work my engineering manager credited with a significant reduction in alert noise. Root-caused a migration timeout that hit dozens of organisations, and detected a website-file delivery failure within 15 minutes, before any alert fired. The core LTI launch service ran at five-nines availability through the 2026 back-to-school peak |
+| 🔐 **Identity & Integrations** | Extended secure sign-in with OAuth 2.0, OpenID Connect and Microsoft Entra ID for more than a thousand education organisations, including launches that keep working when browsers block third-party cookies. LTI 1.3 and LTI Advantage (roster sync and deep linking) on any LTI 1.3 platform, with platform-specific handling for Canvas, Blackboard, Brightspace and Schoology, plus Microsoft Graph and LSEG partner APIs. Led a signed-token design for launch content too large for a URL through security review to a kill-switch release. Shared token validation, least-privilege permission reviews, certificate rotation, Secure Future Initiative work and a .NET 8 upgrade with region-by-region signing-key rotation. Roster paging and safeguards for very large classes |
+| 🔄 **Data & Migration** | Cosmos DB, SQL Server, PostgreSQL, MongoDB, Redis, Azure Tables, Blob storage, Service Bus and Event Hubs. Designed and built the course migration engine: background jobs with saved progress and resume, Canvas rate limits, admin bulk migration, and one class group per course, even when a teacher and students launch it at the same moment (an ETag-guarded lease in Cosmos DB). Fixed its timeout incident so courses with 20,000+ links could move. Repaired more than a thousand courses split across two sites after a full dry run and a small pilot run (canary) |
+| 🤖 **AI** | Built backend services for **Financial Meeting Prep**, a Microsoft Teams app made with **LSEG** for bankers: designed and built the news service around Azure OpenAI summaries (with source links), plus Semantic Kernel work, a provider-neutral data layer with a mock LSEG service, Polly resilience and a shared .NET library, and wrote the Bicep for its Azure environments. Reached 95% test coverage with 200+ tests and cut deployments from 26 to 15 minutes by promoting the build already tested in the pull-request pipeline instead of rebuilding it |
+| 🚀 **Startup** | Co-founded Watani and built a loyalty-app demo (React Native, NestJS, NX monorepo), presented to investors |
 
 ---
 
@@ -121,7 +121,7 @@ Product-minded and pragmatic: I challenge unnecessary complexity and optimize fo
 **Auth & Security**
 
 ![OAuth2](https://img.shields.io/badge/OAuth2/OIDC-000000?style=flat&logo=openid&logoColor=white)
-![Azure AD](https://img.shields.io/badge/Azure_AD-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Microsoft Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![LTI](https://img.shields.io/badge/LTI_1.3-333333?style=flat)
 
@@ -138,8 +138,8 @@ Product-minded and pragmatic: I challenge unnecessary complexity and optimize fo
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-555555?style=flat)
 ![Microservices](https://img.shields.io/badge/Microservices-555555?style=flat)
 ![Event-Driven](https://img.shields.io/badge/Event--Driven-555555?style=flat)
-![DDD](https://img.shields.io/badge/DDD-555555?style=flat)
-![CQRS](https://img.shields.io/badge/CQRS-555555?style=flat)
+![System Design](https://img.shields.io/badge/System_Design-555555?style=flat)
+![Multi-tenant SaaS](https://img.shields.io/badge/Multi--tenant_SaaS-555555?style=flat)
 
 ---
 
